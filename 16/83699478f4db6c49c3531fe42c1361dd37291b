@@ -1,0 +1,107 @@
+middleware-platform-front/src/api/auth.js
+  551bca709d578fc4 1-95
+middleware-platform-server/middleware-platform-server-config-center/src/main/java/com/arelore/middleware/platform/server/configcenter/model/ConfigSet.java
+  551bca709d578fc4 1-35
+middleware-platform-front/src/App.css
+  551bca709d578fc4 44-48,135-172
+middleware-platform-server/middleware-platform-server-config-center/src/main/java/com/arelore/middleware/platform/server/configcenter/model/EnvGroup.java
+  551bca709d578fc4 1-20
+middleware-platform-server/middleware-platform-server-registry-center/src/main/resources/application.yml
+  551bca709d578fc4 4-9
+middleware-platform-server/middleware-platform-server-gateway-center/src/main/resources/application.yml
+  551bca709d578fc4 4-9
+middleware-platform-server/middleware-platform-server-trace/src/main/resources/application.yml
+  551bca709d578fc4 4-9
+middleware-platform-front/src/App.jsx
+  551bca709d578fc4 2-7,12-27,33-35,46,52-95,103,116-144,146,149-164,170,172-173,180-203,232,241-262,269-297,299-343,348
+middleware-platform-front/src/constants/modules.js
+  551bca709d578fc4 1-111
+middleware-platform-server/middleware-platform-server-auth/src/main/java/com/arelore/middleware/platform/server/auth/controller/AuthController.java
+  551bca709d578fc4 1-95
+middleware-platform-server/middleware-platform-server-auth/src/main/java/com/arelore/middleware/platform/server/auth/MiddlewarePlatformAuthApplication.java
+  551bca709d578fc4 1-16
+middleware-platform-server/middleware-platform-server-auth/src/main/java/com/arelore/middleware/platform/server/auth/service/AuthService.java
+  551bca709d578fc4 1-59
+middleware-platform-front/vite.config.js
+  551bca709d578fc4 8-18,20
+middleware-platform-server/middleware-platform-server-job/src/main/resources/application.yml
+  551bca709d578fc4 4-9
+middleware-platform-front/src/pages/gateway/GatewayCenter.jsx
+  551bca709d578fc4 1-660
+middleware-platform-server/middleware-platform-server-config-center/src/main/java/com/arelore/middleware/platform/server/configcenter/common/ApiResult.java
+  551bca709d578fc4 1-28
+middleware-platform-server/middleware-platform-server-config-center/src/main/java/com/arelore/middleware/platform/server/configcenter/service/ConfigCenterService.java
+  551bca709d578fc4 1-365
+middleware-platform-server/middleware-platform-server-mq/src/main/resources/application.yml
+  551bca709d578fc4 4-9
+middleware-platform-front/src/api/config.js
+  551bca709d578fc4 1-124
+middleware-platform-server/middleware-platform-server-config-center/src/main/java/com/arelore/middleware/platform/server/configcenter/model/Ticket.java
+  551bca709d578fc4 1-38
+middleware-platform-front/src/pages/config/ConfigCenter.jsx
+  551bca709d578fc4 1-56
+middleware-platform-front/src/pages/config/ConfigCenter.css
+  551bca709d578fc4 1-118
+middleware-platform-front/src/pages/gateway/gatewayStore.js
+  551bca709d578fc4 1-226
+middleware-platform-server/middleware-platform-server-dlb/src/main/resources/application.yml
+  551bca709d578fc4 4-9
+middleware-platform-server/middleware-platform-server-auth/src/main/java/com/arelore/middleware/platform/server/auth/model/UserSession.java
+  551bca709d578fc4 1-62
+middleware-platform-server/middleware-platform-server-config-center/src/main/java/com/arelore/middleware/platform/server/configcenter/model/ConfigApp.java
+  551bca709d578fc4 1-23
+middleware-platform-server/middleware-platform-server-config-center/src/main/java/com/arelore/middleware/platform/server/configcenter/store/ConfigDataStore.java
+  551bca709d578fc4 1-148
+middleware-platform-server/middleware-platform-server-config-center/pom.xml
+  551bca709d578fc4 9,39
+middleware-platform-server/middleware-platform-server-auth/src/main/resources/application.yml
+  551bca709d578fc4 1-18
+middleware-platform-server/middleware-platform-server-config-center/src/main/resources/application.yml
+  551bca709d578fc4 4-9
+middleware-platform-server/middleware-platform-server-auth/pom.xml
+  551bca709d578fc4 1-44
+middleware-platform-server/middleware-platform-server-config-center/src/main/java/com/arelore/middleware/platform/server/configcenter/model/AppPermission.java
+  551bca709d578fc4 1-27
+middleware-platform-server/middleware-platform-server-log-platform/src/main/resources/application.yml
+  551bca709d578fc4 4-9
+middleware-platform-front/src/pages/config/TicketPanel.jsx
+  551bca709d578fc4 1-118
+middleware-platform-front/src/pages/gateway/GatewayCenter.css
+  551bca709d578fc4 1-65
+middleware-platform-server/middleware-platform-server-flow-control-center/src/main/resources/application.yml
+  551bca709d578fc4 4-9
+middleware-platform-server/middleware-platform-server-auth/src/main/java/com/arelore/middleware/platform/server/auth/config/CorsConfig.java
+  551bca709d578fc4 1-24
+middleware-platform-front/src/pages/config/AppDetail.jsx
+  551bca709d578fc4 1-151
+middleware-platform-server/middleware-platform-server-config-center/src/main/java/com/arelore/middleware/platform/server/configcenter/controller/ConfigCenterController.java
+  551bca709d578fc4 1-260
+middleware-platform-server/middleware-platform-server-config-center/src/main/java/com/arelore/middleware/platform/server/configcenter/config/CorsConfig.java
+  551bca709d578fc4 1-24
+middleware-platform-front/src/pages/config/ConfigSetViews.jsx
+  551bca709d578fc4 1-448
+middleware-platform-server/middleware-platform-server-auth/src/main/java/com/arelore/middleware/platform/server/auth/config/AuthProperties.java
+  551bca709d578fc4 1-47
+middleware-platform-front/src/pages/config/AppConfigPanel.jsx
+  551bca709d578fc4 1-173
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "1683699478f4db6c49c3531fe42c1361dd37291b",
+  "prompts": {
+    "551bca709d578fc4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cursor-bridge-synthetic",
+        "model": "unknown"
+      },
+      "human_author": "JavaScalaDeveloper <50655096+JavaScalaDeveloper@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 4169,
+      "total_deletions": 264,
+      "accepted_lines": 4429,
+      "overriden_lines": 0
+    }
+  }
+}
