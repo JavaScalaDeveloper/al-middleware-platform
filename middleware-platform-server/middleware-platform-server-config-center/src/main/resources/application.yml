@@ -1,15 +1,12 @@
 server:
   port: 8081
 
+# 模块代码：与前端 App.jsx / constants/modules.js 共用同一套导航与环境切换
+platform:
+  module:
+    code: CONFIG
+    name: 配置中心
+
 spring:
   application:
     name: middleware-platform-server-config-center
-  datasource:
-    url: jdbc:mysql://book-i7-4mq:3306/middleware_platform_config_center?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=GMT%2B8
-    username: root
-    password: 123456
-    driver-class-name: com.mysql.cj.jdbc.Driver
-
-mybatis-plus:
-  configuration:
-    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl

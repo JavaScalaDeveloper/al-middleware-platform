@@ -1,6 +1,12 @@
 server:
   port: 8088
 
+# 模块代码：与前端 App.jsx / constants/modules.js 共用同一套导航与环境切换
+platform:
+  module:
+    code: TRACE
+    name: 链路追踪
+
 spring:
   application:
     name: middleware-platform-server-trace

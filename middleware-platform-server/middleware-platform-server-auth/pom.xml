@@ -9,10 +9,10 @@
         <relativePath/>
     </parent>
     <groupId>com.arelore</groupId>
-    <artifactId>middleware-platform-server-config-center</artifactId>
+    <artifactId>middleware-platform-server-auth</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>middleware-platform-server-config-center</name>
-    <description>配置中心</description>
+    <name>middleware-platform-server-auth</name>
+    <description>统一登录</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
@@ -20,6 +20,11 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-configuration-processor</artifactId>
+            <optional>true</optional>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>

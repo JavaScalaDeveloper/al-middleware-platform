@@ -1,0 +1,18 @@
+server:
+  port: 8089
+
+# 模块代码：与前端 App.jsx / constants/modules.js 共用同一套导航与环境切换
+platform:
+  module:
+    code: AUTH
+    name: 统一登录
+  # 现阶段仅支持超管，账密写在配置中
+  auth:
+    super-admin:
+      username: admin
+      password: admin123
+      display-name: 超级管理员
+
+spring:
+  application:
+    name: middleware-platform-server-auth

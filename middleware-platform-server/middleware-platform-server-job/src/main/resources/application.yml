@@ -1,6 +1,12 @@
 server:
   port: 8085
 
+# 模块代码：与前端 App.jsx / constants/modules.js 共用同一套导航与环境切换
+platform:
+  module:
+    code: JOB
+    name: 任务调度
+
 spring:
   application:
     name: middleware-platform-server-job

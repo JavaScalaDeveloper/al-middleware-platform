@@ -1,6 +1,12 @@
 server:
   port: 8082
 
+# 模块代码：与前端 App.jsx / constants/modules.js 共用同一套导航与环境切换
+platform:
+  module:
+    code: DLB
+    name: 分布式负载均衡
+
 spring:
   application:
     name: middleware-platform-server-dlb

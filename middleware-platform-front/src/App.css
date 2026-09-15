@@ -41,6 +41,11 @@
   background: #f0f2f5;
 }
 
+.module-content {
+  padding: 0;
+  background: #f0f2f5;
+}
+
 .carousel-container {
   margin-bottom: 32px;
   background: white;
@@ -127,4 +132,42 @@
   font-size: 16px;
   line-height: 1.5;
   margin-bottom: 16px;
+}
+
+.module-code {
+  margin: 0;
+  color: #8c8c8c;
+  font-size: 12px;
+  font-family: Consolas, Monaco, monospace;
+}
+
+.auth-loading {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f0f2f5;
+}
+
+.login-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: calc(100vh - 64px);
+}
+
+.login-card {
+  width: 400px;
+  max-width: 92vw;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+}
+
+.login-hint {
+  margin: 0 0 16px;
+  color: #8c8c8c;
+  font-size: 13px;
+}
+
+.user-button {
+  margin-left: 8px;
 }
